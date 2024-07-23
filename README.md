@@ -59,5 +59,5 @@ I hope this helps you with your project. If you have any feedback or questions, 
 
 ## Next steps
 
-- [ ] Creating a docker image for the project
+- [ ] Automating the operations
 
